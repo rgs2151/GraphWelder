@@ -1,9 +1,9 @@
-# GraphWelder: High-Performance MLOps Framework For Open Source Research
+# 🐔GraphWelder
 
-GraphWelder: High-Performance MLOps Framework For Open Source Research
+## High-Performance MLOps Framework For Open Source Research
 
 
-# languagewelder PipeLine
+### languagewelder PipeLine
 
 **welder PipeLine module** is designed to represent each and every step in the project as `Pipe` to a `PipeLine`. `PipeLine` is an implementation of asyclic `Graph` with n `InputPipe` and `OutputPipe`.
 
